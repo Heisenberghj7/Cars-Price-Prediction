@@ -3,7 +3,9 @@
 <p align="center">
     <img src="Cars.jpg"/>
 </p>
+
 <br />
+
 **`Project Architecture :`**
 <img src="Cars-Price-Prediction.png"/>
 
